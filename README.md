@@ -1,5 +1,6 @@
 # Chatbot Django Project
 
 bash ``` 
-pip install requirements.txt
+project requirements
 ```
+pip install requirements.txt
